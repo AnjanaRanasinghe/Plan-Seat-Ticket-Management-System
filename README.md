@@ -1,4 +1,4 @@
-# Plan-seat-ticket-Management-System
+# Plan-Seat-Ticket-Management-System
 A new company managing a private plane has asked to create a Java program to manage  and track seat reservations effectively.Designing and implementing 
 this program will be working with the company’s aircraft, which is shown below: 
 
