@@ -28,8 +28,7 @@ Before running this application, ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/AnjanaRanasinghe/Plan-Seat-Ticket-Management-System.git
 ```
 
 ## Running the Application
@@ -52,7 +51,7 @@ cd your-repository
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com] or open an issue on GitHub.
+For any inquiries, please contact [anjana.20231160@iit.ac.lk] or open an issue on GitHub.
 
 
 
