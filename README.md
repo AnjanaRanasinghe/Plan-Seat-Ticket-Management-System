@@ -1,4 +1,7 @@
 # Plan-Seat-Ticket-Management-System
+
+## Overview
+
 A new company managing a private plane has asked to create a Java program to manage  and track seat reservations effectively.Designing and implementing 
 this program will be working with the company’s aircraft, which is shown below: 
 
@@ -12,6 +15,45 @@ colour. For example, the seat marked with an ‘X’ is considered seat B2 and c
 **Option Menu**
 
 ![image](https://github.com/user-attachments/assets/001211fb-234d-4649-b684-7872b9440b1f)
+
+
+## Prerequisites
+Before running this application, ensure you have the following installed:
+- **Java Development Kit (JDK)** (Version 11 or higher recommended)
+- **Maven** (for dependency management, if applicable)
+- **Git** (for version control, optional)
+- **IntelliJ IDEA**, **Eclipse**, or any other Java-supported IDE
+
+## Installation
+
+### Clone the Repository
+```sh
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+```
+
+## Running the Application
+### Using IntelliJ IDEA
+1. Open **IntelliJ IDEA**
+2. Click **File > Open** and select the project folder
+3. Ensure the correct **JDK** is set in **Project Structure > SDKs**
+4. If using **Maven**, click **Reload Maven Project** to install dependencies
+5. Navigate to the **Main class** (e.g., `com.example.Main`)
+6. Click the **Run** button or use `Shift + F10`
+
+### Using Eclipse
+1. Open **Eclipse**
+2. Click **File > Import > Existing Maven Projects**
+3. Select the project folder and click **Finish**
+4. Ensure the correct **JDK** is set in **Properties > Java Build Path**
+5. Navigate to the **Main class** and click **Run As > Java Application**
+
+## License
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+## Contact
+For any inquiries, please contact [your-email@example.com] or open an issue on GitHub.
+
 
 
 
